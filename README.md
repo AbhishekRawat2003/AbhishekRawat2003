@@ -5,7 +5,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
 ---
 
 <!-- Keyboard Image at the Top -->
-<img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/bcb265fbf1226fe70df906ea04370ad868a94c78/Full%20Stack%20Developer%20%20Software%20Developer%20(3).gif?raw=true" alt="Full Stack Developer GIF" width="100%" height="300" style="border:2px solid #000"/>
+<img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/8fb295edca050dfa8e5fa8d5c5601ebb8393b905/Full%20Stack%20Developer%20%20Software%20Developer%20(5).gif" alt="Full Stack Developer GIF" width="100%" height="300" style="border:2px solid #000"/>
 
 
 ---
