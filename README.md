@@ -23,7 +23,7 @@ m# 👋 Hi there! I'm Abhishek Rawat
      <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="500" style="margin-right: 20px;">
           <h3 >Languages</h3>
      </div>
-     <div style="flex-1 ">
+     <div style="flex-1; ">
           <h3 >Languages</h3>
           <br>
           <h3 >Languages</h3>
