@@ -22,7 +22,7 @@ m# 👋 Hi there! I'm Abhishek Rawat
      <div style="flex: 1; margin-right: 20px; ">
      <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="400" height=" 400" style="margin-right: 20px; " align="left">
      </div>
-     <div style="flex-1;justofy-items: right; ">
+     <div style="flex-1; justofy-items: right; ">
           <h3 >Languages:</h3>
           <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white ">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white ">
@@ -51,22 +51,22 @@ m# 👋 Hi there! I'm Abhishek Rawat
 <br>
      </div>
 </div>
-
-### DevOps & Cloud:
+<div style="display: "flex;">
+<h3 style="align:"left">DevOps & Cloud:</h3>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools:
+     
+<h3 style="align:"left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
 </a>
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
 </a>
+<h3 style="align:"left">Version Control:</h3>
 
-### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 
 ---
 
