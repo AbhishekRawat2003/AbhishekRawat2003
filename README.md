@@ -43,7 +43,14 @@
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
 </a>
-
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/60/000000/visual-studio-code-2019.png" alt="VS Code" width="60" height="60" style="margin-right: 30px;"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/60/000000/canva.png" alt="Canva" width="60" height="60" style="margin-right: 30px;"/>
+  </a>
+</p>
 ---
 
 
