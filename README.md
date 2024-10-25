@@ -78,7 +78,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
   </a>
 
 <div style="display:"flex;">
-<img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/4aba0f56a29944db1f329d3861ca3d2cc25703a3/animated_gif.gif" align="right;">
+<img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/4aba0f56a29944db1f329d3861ca3d2cc25703a3/animated_gif.gif" align="right;" width=" 400px" height="400px" style="margin-right: 20px;">
 </div>
   
 ---
