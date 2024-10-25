@@ -21,11 +21,7 @@
 
 <!-- Container for GIF and Badges -->
 <div style="display: flex; align-items: center;">
-
-    <!-- GIF on the left side -->
     <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="200" style="margin-right: 20px;">
-
-    <!-- Badges on the right side -->
     <div>
         ### Languages:
         <br>
