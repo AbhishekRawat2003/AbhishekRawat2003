@@ -74,7 +74,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
 ## 🖥️ Operating Systems
 
 <a href="https://ubuntu.com/download">
-    <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/3c0646e5ad70e34ab3c11b210dc9f05cae072d33/animation.gif" alt="Ubuntu" width="50"/>
+    <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/07081be594cfab4402ae2332cea10d7934f5c8c8/animation.gif" alt="Ubuntu" width="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50"/>
