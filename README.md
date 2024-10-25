@@ -4,6 +4,10 @@
 
 ---
 
+![Keyboard](https://images.unsplash.com/photo-1595018793908-f48d2f5f8fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGxvcGZpbGwlMjBhcHAlMjBhdmFpbGFibGV8ZW58MHx8fHwxNjY2Mjg2NzQ4&ixlib=rb-1.2.1&q=80&w=400)
+
+---
+
 ## About Me
 - 🔭 I’m currently working on: **EduManage**, a student management ERP system.
 - 🌱 I’m currently learning: **Django** and **MySQL**.
@@ -23,14 +27,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
 ### Frameworks:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-
 
 ### Backend Technologies:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,11 +53,10 @@
   <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
 </a>
 
-### Version Control
+### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 
 ## 📂 Featured Projects
 ### [EduManage ERP](https://github.com/Abhirawat9639/EduManage-ERP)
