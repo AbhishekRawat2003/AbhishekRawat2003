@@ -10,7 +10,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
 ---
 
 ## About Me
-- 🔭 I’m currently working on: **EduManage**, a student management ERP system.
+- 🔭 I’m currently pursuing Bachelor of Computer Science and Engineering
 - 🌱 I’m currently learning: **Django** and **MySQL**.
 - 💬 Ask me about: **Django**, **Python**, **JavaScript**, and **React**.
 - 📫 How to reach me: [abhirawathdr@gmail.com](mailto:abhirawathdr@gmail.com)
