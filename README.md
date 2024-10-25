@@ -68,6 +68,10 @@ m# 👋 Hi there! I'm Abhishek Rawat
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🖥️ Operating Systems
+
+- [![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/3/39/Ubuntu_logo_2022.svg)](https://ubuntu.com/)
+- [![Windows](https://upload.wikimedia.org/wikipedia/commons/4/4c/Windows_logo_-_2012.svg)](https://www.microsoft.com/en-us/windows
 ---
 
 ## 📂 Featured Projects
