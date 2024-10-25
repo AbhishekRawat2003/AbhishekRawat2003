@@ -19,7 +19,19 @@
 ## 🛠️ Technologies & Tools
 
 <div style="display: flex; align-items: center;">
-     <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="600" style="margin-right: 20px;">
+     <div style=" ">
+     <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="500" style="margin-right: 20px;">
+     </div>
+     <div style=" ">
+          <h3 >Languages</h3>
+          <br>
+          <h3 >Languages</h3>
+          <br>
+          <h3 >Languages</h3>
+          <br>
+          <h3 >Languages</h3>
+          <br>
+     </div>
 </div>
 
 
