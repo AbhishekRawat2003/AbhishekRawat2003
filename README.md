@@ -52,9 +52,9 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
      </div>
 
 <div style="display: flex; align-items: center;">
-     <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/4aba0f56a29944db1f329d3861ca3d2cc25703a3/animated_gif.gif" align="right" width=" 400px" height="400px" style="margin-right: 20px;">
-
+     <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/7034fbc36a8bff6b0ed897017ed3dd02a87f8ea6/animation.gif" width="400px" height="400px" style="align: right">
 </div>
+
 ### DevOps & Cloud:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
