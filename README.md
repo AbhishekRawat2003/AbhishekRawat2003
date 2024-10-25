@@ -74,7 +74,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
 ## 🖥️ Operating Systems
 
 <a href="">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/> 
 </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50"/>
