@@ -70,8 +70,13 @@ m# 👋 Hi there! I'm Abhishek Rawat
 
 ## 🖥️ Operating Systems
 
-- [![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)](https://ubuntu.com/download)
-- [![Windows](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/software-download/windows10)
+<a href="https://ubuntu.com/download">
+    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows10">
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50"/>
+  </a>
+
 
   
 ---
