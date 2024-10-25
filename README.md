@@ -37,8 +37,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
+</a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
+</a>
 
 ---
 
