@@ -77,7 +77,9 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50"/>
   </a>
 
-
+<div style="display:"flex;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw2MfLkOYYPGCnWKbNh6eB0k&ust=1729916135590000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjem_jVqIkDFQAAAAAdAAAAABAJ" align="right;">
+</div>
   
 ---
 
