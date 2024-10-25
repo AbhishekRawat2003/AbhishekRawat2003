@@ -47,6 +47,7 @@ m# 👋 Hi there! I'm Abhishek Rawat
 ### Databases:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
      </div>
 </div>
 
