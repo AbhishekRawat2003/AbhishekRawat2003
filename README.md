@@ -52,7 +52,7 @@ Full-Stack Developer | Frontend & Backend | Python & Django | Software Developme
      </div>
 
 <div style="display: flex; align-items: center;">
-     <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/7034fbc36a8bff6b0ed897017ed3dd02a87f8ea6/animation.gif" width="400px" height="400px" style="align: right">
+     <img src="https://github.com/AbhishekRawat2003/AbhishekRawat2003/blob/7034fbc36a8bff6b0ed897017ed3dd02a87f8ea6/animation.gif" width="400px" height="400px" align= "right">
 </div>
 
 ### DevOps & Cloud:
