@@ -40,8 +40,8 @@ m# 👋 Hi there! I'm Abhishek Rawat
           <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white ">
           <br>
           <h3 >Backends:</h3>
-
-          ### Databases:
+           <img src="[https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white ](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)">
+### Databases:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -59,9 +59,6 @@ m# 👋 Hi there! I'm Abhishek Rawat
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-          <br>
-          <h3 >Languages</h3>
-          <br>
      </div>
 </div>
 
