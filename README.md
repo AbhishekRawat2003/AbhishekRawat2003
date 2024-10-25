@@ -21,10 +21,16 @@ m# 👋 Hi there! I'm Abhishek Rawat
 <div style="display: flex; align-items: center;">
      <div style="flex: 1; margin-right: 20px; ">
      <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/Skills_Animation_Dark.gif" alt="Technologies GIF" width="500" style="margin-right: 20px; " align="left">
-          <h3 >Languages</h3>
      </div>
      <div style="flex-1;justofy-items: right; ">
           <h3 >Languages</h3>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white ">
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white ">
+          <img src="(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white ">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ">
+          <img src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+          <img src=" https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
           <br>
           <h3 >Languages</h3>
           <br>
