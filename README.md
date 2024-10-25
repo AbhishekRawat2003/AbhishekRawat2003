@@ -5,7 +5,7 @@
 ---
 
 <!-- Keyboard Image at the Top -->
-<img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/keyboard.jpg" alt="Keyboard" width="600" height="auto" style="border: 2px solid #000;">
+<img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/1fbba1b808ae4e62f3939a0dc0bbfe1dd053acb4/keyboard.jpg" alt="Keyboard" width="auto" height="auto" style="border: 2px solid #000;">
 
 ---
 
