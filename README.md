@@ -52,27 +52,20 @@ m# 👋 Hi there! I'm Abhishek Rawat
      </div>
 </div>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-    </div>
-    <div style="margin-right: 20px;">
-        <a href="https://code.visualstudio.com/" target="_blank">
-            <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
-        </a>
-    </div>
-    <div style="margin-right: 20px;">
-        <a href="https://www.canva.com/" target="_blank">
-            <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
-        </a>
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-    </div>
-</div>
+### DevOps & Cloud:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools:
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
+</a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
+</a>
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
