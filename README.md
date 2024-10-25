@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Abhishek Rawat
 
-### Full-Stack Developer | Frontend & Backend | Python & Django Enthusiast 💻
+Full-Stack Developer | Frontend & Backend | Python & Django | Software Development Enthusiast 💻
 
 ---
 
