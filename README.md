@@ -81,6 +81,7 @@
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50"/>
   </a>
 <div style="display:"flex;">
+     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>
   
 ---
@@ -92,7 +93,7 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/abhishekrawat2003)
 - [Twitter](https://twitter.com/your-profile)
 - [Portfolio](https://your-portfolio-link.com)
 
