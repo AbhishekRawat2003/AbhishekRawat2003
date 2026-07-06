@@ -35,8 +35,4 @@ A home automation system using ESP32, supporting both online (Firebase) and offl
 - Data Structures & Algorithms (DSA) — consistent daily practice on LeetCode 🔥
 - System Design fundamentals — API design, database design, caching, scalability basics
 ---
-## GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekRawat2003&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRawat2003&layout=compact)
----
 Thanks for visiting my profile! 😊
