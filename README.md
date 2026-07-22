@@ -18,9 +18,12 @@
 
 ---
 ### Tools
---
 ## Langauge
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp" />
+  </a>
+</p>
 
 
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
