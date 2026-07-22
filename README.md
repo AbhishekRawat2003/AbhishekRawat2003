@@ -98,16 +98,62 @@
 
 
 
-
-
-
-
-
-
-
-
-### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
+### 🚀 Featured Projects
+ 
+#### 🔹 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
+Short description of what this project does and what tech was used.
+ 
+#### 🔹 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
+Short description of what this project does and what tech was used.
+ 
+#### 🔹 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
+Short description of what this project does and what tech was used.
+ 
 ---
+ 
+### 🎓 Experience / Education
+ 
+- **[Job Title]** at **[Company Name]** — [Duration]
+- **[Degree]**, **[College/University Name]** — [Year]
+---
+ 
+### ✍️ Latest Blog Posts
+ 
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](#)
+- [Blog Post Title 2](#)
+<!-- BLOG-POST-LIST:END -->
+ 
+---
+ 
+### 🌐 Connect With Me
+ 
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome" /></a>
+</p>
+---
+ 
+### ☕ Support Me
+ 
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+ 
+---
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile Views" />
+</p>
+<p align="center"><i>Thanks for visiting my profile! ⭐ from [Your Name]</i></p
+
+
+
+
+
+
+
+
 ## About Me
 - 🎓 B.Tech in Computer Science Engineering (2025)
 - 💻 Currently working as a Junior Software Developer, building and shipping full-stack web apps with **Django** and **React**
