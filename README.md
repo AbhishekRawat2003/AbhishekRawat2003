@@ -16,10 +16,9 @@
 - Building real-world applications and improving my DSA skills.
 - Learning every day • Building consistently • Growing as a developer.
 
-
 ---
-### Tools
-## Langauge
+## Tools
+### Langauge
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp" />
