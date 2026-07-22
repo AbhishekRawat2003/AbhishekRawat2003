@@ -3,7 +3,8 @@
 </p>
 
 
-# Bonjour! I'm Abhishek Rawat
+<h1 align="center">Hi, I'm Abhishek Rawat</h1>
+<h3 align="center">[Your Tagline — e.g. "Full Stack Developer | Open Source Enthusiast"]</h3>
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
 ---
 ## About Me
