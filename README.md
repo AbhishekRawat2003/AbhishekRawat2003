@@ -38,7 +38,7 @@
 **Junior Software Developer** — WebLabze Pvt. Ltd.
 - Developed 10+ backend APIs using Django REST Framework
 - Implemented JWT Authentication & Role-Based Access Control (RBAC)
-- Optimized SQL queries and improved backend performance upto 60%
+- Optimized SQL queries to improve backend performance and reduce response times.
 - Collaborated with frontend developers to ship scalable features
 
 <br/>
@@ -126,7 +126,11 @@ A smart home automation system enabling remote monitoring and control of househo
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekrawat2003&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" alt="Top Langs" height="165"/>
 </p>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekRawat2003&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
@@ -145,17 +149,18 @@ A smart home automation system enabling remote monitoring and control of househo
 ## 🏅 Achievements
 
 - 🏅 50+ Day LeetCode Streak
-- 🏅 Solved 100+ DSA Problems
+- 🏅 Solved 121+ DSA Problems
 - 🏅 Built a Full-Stack, Production-Style Django ERP System
 - 🏅 Consistent LeetCode Problem Solver
 - 🏅 Built 3+ End-to-End Projects
-- 
+
 <br/>
 
 ## 📚 Currently Learning / Sharpening
 
 - 🧮 Data Structures & Algorithms (DSA) — consistent daily practice on LeetCode
-- 🏗️ System Design fundamentals — API design, database design, caching, scalability basics
+- 🏗️ 🏗️ System Design (Caching, Load Balancing, Database Scaling)
+- ☁️ Docker, Kubernetes & CI/CD
 
 <br/>
 
@@ -170,3 +175,6 @@ A smart home automation system enabling remote monitoring and control of househo
 Open to Software Development roles, collaborations, and interesting conversations about backend engineering, system design, or DSA. Reach out via [LinkedIn](https://linkedin.com/in/abhishekrawat2003) or [Email](mailto:abhirawathdr@gmail.com).
 
 <p align="center"><i>⭐ Thanks for visiting! If you like my work, feel free to connect or explore my repositories.</i></p>
+<p align="center">
+  <b>💜 Always open to learning, building, and collaborating.</b>
+</p>
