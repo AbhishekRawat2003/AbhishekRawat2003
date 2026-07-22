@@ -24,6 +24,13 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,sql" />
   </a>
 </p>
+---
+### Web Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  </a>
+</p>
 
 
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
