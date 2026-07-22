@@ -11,11 +11,11 @@
 </p>
 
 ---
-### <p align="center">About Me
+<h2 align="center">About Me </h2>
 - Computer Science Engineering graduate with a Bachelor of Technology (B.Tech) degree from VMSB Uttarakhand Technical University.
 - Building real-world applications and improving my DSA skills.
 - Learning every day • Building consistently • Growing as a developer.
-</p>
+
 
 ---
 ### Tools
