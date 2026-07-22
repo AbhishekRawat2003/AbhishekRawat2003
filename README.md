@@ -61,8 +61,7 @@
 ### Devops and Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Docker,Kubernetes,Linux,Nginx,Netlify
-" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,netlify" />
   </a>
 </p>
 
