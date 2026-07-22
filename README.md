@@ -100,15 +100,20 @@
 
 ### 🚀 Featured Projects
  
-#### 🔹 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
-Short description of what this project does and what tech was used.
+###🔹 [EduMa – College ERP System for Academic Management]([https://github.com/Abhirawat9639/EduManage-ERP](https://github.com/AbhishekRawat2003/College-ERP-Management))
+A full-stack ERP application to manage academic workflows — student records, scheduling, and administrative tasks.
+- Built secure backend APIs using Django REST Framework with role-based access control
+- Implemented automated report generation for attendance and grades, reducing manual effort
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekrawat2003?theme=dark&font=Baloo&ext=heatmap)
  
-#### 🔹 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
-Short description of what this project does and what tech was used.
- 
-#### 🔹 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
-Short description of what this project does and what tech was used.
- 
+---
+Currently on a 50-day consistent problem-solving streak — sharpening DSA fundamentals one problem at a time.
+---
+## Currently Learning / Sharpening
+- Data Structures & Algorithms (DSA) — consistent daily practice on LeetCode 🔥
+- System Design fundamentals — API design, database design, caching, scalability basics
 ---
  
 ### 🎓 Experience / Education
@@ -117,35 +122,28 @@ Short description of what this project does and what tech was used.
 - **[Degree]**, **[College/University Name]** — [Year]
 ---
  
-### ✍️ Latest Blog Posts
- 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](#)
-- [Blog Post Title 2](#)
-<!-- BLOG-POST-LIST:END -->
- 
----
+
  
 ### 🌐 Connect With Me
  
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://linkedin.com/in/abhishekrawat2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x" /></a> -->
+  <a href="mailto:abhirawathdr@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://portfolio2025-abhishekrawat2003.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome" /></a>
 </p>
 ---
  
 ### ☕ Support Me
  
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+<a href="https://www.buymeacoffee.com/abhishekrawat2003" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
  
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekrawat2003&color=blueviolet" alt="Profile Views" />
 </p>
-<p align="center"><i>Thanks for visiting my profile! ⭐ from [Your Name]</i></p
+<p align="center"><i>Thanks for visiting my profile! ⭐ from Abhishek Rawat</i></p
 
 
 
@@ -154,38 +152,4 @@ Short description of what this project does and what tech was used.
 
 
 
-## About Me
-- 🎓 B.Tech in Computer Science Engineering (2025)
-- 💻 Currently working as a Junior Software Developer, building and shipping full-stack web apps with **Django** and **React**
-- 🚀 Focused on backend development — REST APIs, databases, authentication, and clean system design
-- 🧠 Strengthening DSA and system design fundamentals alongside real project work
-- 📫 Reach me at: [abhirawathdr@gmail.com](mailto:abhirawathdr@gmail.com)
-- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/abhishekrawat2003) • [Portfolio](https://portfolio2025-abhishekrawat2003.vercel.app/)
----
-## Tech Stack
-**Languages:** Python, C++, JavaScript
-**Backend:** Django, Django REST Framework, REST APIs
-**Frontend:** React.js, HTML, CSS
-**Databases:** MySQL, MongoDB
-**Tools & Platforms:** Git, GitHub, Postman, Linux, Firebase
----
-## Featured Projects
-### 🎓 [EduManage – ERP System for Academic Management](https://github.com/Abhirawat9639/EduManage-ERP)
-A full-stack ERP application to manage academic workflows — student records, scheduling, and administrative tasks.
-- Built secure backend APIs using Django REST Framework with role-based access control
-- Implemented automated report generation for attendance and grades, reducing manual effort
-### 🏠 IoT-Based Smart Home Assistant
-A home automation system using ESP32, supporting both online (Firebase) and offline (Bluetooth) control modes.
-- Voice-command-based device control with scheduling and secure command handling
-- Real-time monitoring via DHT11 sensors and relay-based appliance switching
----
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekrawat2003?theme=dark&font=Baloo&ext=heatmap)
 
-🔥 Currently on a 50-day consistent problem-solving streak — sharpening DSA fundamentals one problem at a time.
----
-## Currently Learning / Sharpening
-- Data Structures & Algorithms (DSA) — consistent daily practice on LeetCode 🔥
-- System Design fundamentals — API design, database design, caching, scalability basics
----
-Thanks for visiting my profile! 😊
