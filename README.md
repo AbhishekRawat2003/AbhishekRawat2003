@@ -64,7 +64,24 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,netlify" />
   </a>
 </p>
-
+### Version Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+### Application tool
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,pycharm,pycharm,vscode,vscodium,notion,obsisdian" />
+  </a>
+</p>
+### Platform and Communication
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=leetcode,discord,stakeoverflow,linkedin" />
+  </a>
+</p>
 
 
 
