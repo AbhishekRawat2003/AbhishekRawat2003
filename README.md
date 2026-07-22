@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhishekRawat2003/AbhishekRawat2003/2f8e0fbc80aae46093a638d5bcb791dc4fbbeaf5/NAMASTE%20banner.png" alt="Banner" width="100%" />
+</p>
+
+
 # Bonjour! I'm Abhishek Rawat
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
 ---
