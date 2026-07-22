@@ -9,6 +9,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=b81fe6&center=true&vCenter=true&width=435&lines=Building+cool+things+with+code;Always+learning+something+new;Open+to+collaborate+on+projects" alt="Typing SVG" />
 </p>
+
+---
+### About Me
+- Computer Science Engineering graduate with a Bachelor of Technology (B.Tech) degree from VMSB Uttarakhand Technical University.
+- Building real-world applications and improving my DSA skills.
+- Learning every day • Building consistently • Growing as a developer.
+
+---
+### Tools
+--
+## Langauge
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
 ---
 ## About Me
