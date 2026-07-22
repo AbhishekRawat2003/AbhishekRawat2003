@@ -4,7 +4,11 @@
 
 
 <h1 align="center">Hi, I'm Abhishek Rawat</h1>
-<h3 align="center">[Your Tagline — e.g. "Full Stack Developer | Open Source Enthusiast"]</h3>
+<h3 align="center"> Software Developer | Open Source Enthusiast </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+cool+things+with+code;Always+learning+something+new;Open+to+collaborate+on+projects" alt="Typing SVG" />
+</p>
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
 ---
 ## About Me
