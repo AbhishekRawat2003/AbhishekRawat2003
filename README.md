@@ -21,7 +21,7 @@
 ### Langauge
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,sql" />
+    <img src="https://skillicons.dev/icons?i=py,cpp" />
   </a>
 </p>
 ---
@@ -45,7 +45,24 @@
 ### Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis" />
+  </a>
+</p>
+</p>
+---
+### Messaging
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
+  </a>
+</p>
+</p>
+---
+### Devops and Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Docker,Kubernetes,Linux,Nginx,Netlify
+" />
   </a>
 </p>
 
