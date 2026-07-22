@@ -32,6 +32,36 @@
   </a>
 </p>
 
+</p>
+---
+### Backend Langauges
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Django,FastaPi" />
+  </a>
+</p>
+</p>
+---
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Backend-Focused Full-Stack Developer | Python • Django • React + CPP + MySQL  | Building real-world apps end to end
 ---
