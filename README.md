@@ -123,7 +123,7 @@ A smart home automation system enabling remote monitoring and control of househo
   <img src="https://github-stats-extended.vercel.app/api?username=abhishekrawat2003&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="165"/></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrawat2003&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekrawat2003&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" alt="Top Langs" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekrawat2003&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&hide=javascript,css,html,typescript,scss,kotlin" alt="Top Langs" height="165"/>
 </p>
 
 ## 🐍 Contribution Snake
